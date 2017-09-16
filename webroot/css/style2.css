@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+}
+
+#spaceup{
+	height: 50px;
+	background-color: rgba(255,255,255,0);        
+}
+
+#navegador{
+    background:#0066ff;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #ffffff;
+}
+
+

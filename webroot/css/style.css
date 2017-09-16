@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+	}
+
+#spaceup{
+	height: 50px;
+	background-color: rgba(255,255,255,0);
+        
+}
+
+.navbar.navbar-default {
+	border-width: 0px;
+}
+.navbar.navbar-default .container-fluid {
+	border-radius: 0px;
+	margin: 0px;
+        background-color: #0066ff;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #ffffff;
+}
+
+
+#section{
+    
+    padding: 0px;
+    
+}
